@@ -1,0 +1,8 @@
+name: PlunderCraft
+version: 1.0
+authors: [OhYea777]
+main: com.ohyea777.plundercraft.PlunderCraftCore
+
+commands:
+  modules:
+    aliases: []
